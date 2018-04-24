@@ -15,7 +15,6 @@ class App extends Component {
   getBulletIcon = () => <Icon name="circle" size="small" color="red" />;
   getRating = rating => (
     <Rating
-      icon={<Icon name="star" color="red" />}
       style={{ float: "right" }}
       defaultRating={rating}
       maxRating={5}
@@ -32,7 +31,7 @@ class App extends Component {
     return (
       <Container className="marginTop">
         <Grid>
-          <Grid.Column style={{ width: "30%", "min-width": "250px" }}>
+          <Grid.Column style={{ width: "30%", minWidth: "250px" }}>
             <Grid.Row>
               <h2>
                 <Card>
@@ -72,7 +71,7 @@ class App extends Component {
               </h2>
             </Grid.Row>
           </Grid.Column>
-          <Grid.Column style={{ width: "35%", "min-width": "250px" }}>
+          <Grid.Column style={{ width: "35%", minWidth: "250px" }}>
             <Grid.Row>
               <h2>
                 <Icon name="travel" />
@@ -175,7 +174,7 @@ class App extends Component {
               </Feed>
             </Grid.Row>
           </Grid.Column>
-          <Grid.Column style={{ width: "35%", "min-width": "300px" }}>
+          <Grid.Column style={{ width: "35%", minWidth: "300px" }}>
             <Grid.Row>
               <h2>
                 <Icon name="chain" />
