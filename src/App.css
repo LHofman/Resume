@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+h1, h2, h3, .title {
+    color: rgb(150, 0, 0);
+}
+
+.marginTop {
+    margin-top: 1em;
+}
+
+.italic {
+    font-style: italic;
+}
+
+p, .black {
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+}
