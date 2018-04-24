@@ -136,8 +136,8 @@ class App extends Component {
                     <p>
                       Student Job @{" "}
                       {this.getLink(
-                        "Belfius",
-                        "https://www.belfius.be/common/nl/fw/language.html"
+                        "Belfius Lease",
+                        "https://www.belfius-lease.be/nl/iws/language.html"
                       )}
                     </p>
                   }
