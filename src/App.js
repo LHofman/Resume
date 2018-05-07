@@ -188,7 +188,7 @@ class App extends Component {
                 <i>Html, Css, Sass</i>
                 <li>ASP.NET {this.getRating(3)}</li>
                 <i>MVC, Core</i>
-                <li>Javascript {this.getRating(3)}</li>
+                <li>JavaScript {this.getRating(3)}</li>
                 <i>Angular, react, node, express</i>
                 <li>Database {this.getRating(3)}</li>
                 <i>SQLite, NoSql, Mongo</i>
