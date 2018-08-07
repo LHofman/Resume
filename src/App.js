@@ -80,6 +80,24 @@ class App extends Component {
               <Feed>
                 <Feed.Event
                   icon={this.getBulletIcon()}
+                  date="Jul 2018"
+                  summary={
+                    <p>
+                      Assistent Programming Summercamp @{" "}
+                      {this.getLink("Codefever", "https://www.codefever.be/nl")}
+                    </p>
+                  }
+                  extraText={
+                    <div>
+                      <p>Assisting the teacher(s) with helping the kids through the exercises.</p>
+                      <ul>
+                        <li>Scratch</li>
+                      </ul>
+                    </div>
+                  }
+                />
+                <Feed.Event
+                  icon={this.getBulletIcon()}
                   date="Feb 2018 - May 2018"
                   summary={
                     <p>
@@ -154,7 +172,7 @@ class App extends Component {
                 <Feed.Event
                   icon={this.getBulletIcon()}
                   date="Sep 2014 - Jun 2018"
-                  summary="University College Ghent"
+                  summary="HoGhent"
                   extraText="Bachelor in Applied Informatics"
                 />
                 <br />
