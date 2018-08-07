@@ -83,7 +83,7 @@ class App extends Component {
                   date="Jul 2018"
                   summary={
                     <p>
-                      Assistent Programming Summercamp @{" "}
+                      Assistant Programming Summercamp @{" "}
                       {this.getLink("Codefever", "https://www.codefever.be/nl")}
                     </p>
                   }
