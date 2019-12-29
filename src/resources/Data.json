@@ -1,0 +1,144 @@
+{
+  "education": [
+    {
+      "key": "HoGent",
+      "date": "Sep 2014 - Jun 2018",
+      "school": "HoGent",
+      "field": "Applied Informatics (Bachelor)"
+    },
+    {
+      "key": "Broeders",
+      "date": "Sep 2010 - Jun 2014",
+      "school": "Vrije handelsschool broeders",
+      "field": "Accountancy-Informatics"
+    }
+  ],
+  "experience": [
+    {
+      "key": "Onyx",
+      "date": "Oct 2018 - Current",
+      "position": "Web Developer",
+      "company": {
+        "name": "Onyx Online Learning",
+        "link": "https://www.onyxonlinelearning.com/"
+      },
+      "summary": "Maintaining the existing websites",
+      "technologies": [
+        "CakePHP 2.x",
+        "MySQL"
+      ]
+    },
+    {
+      "key": "Codefever",
+      "date": "Jul 2018",
+      "position": "Assistant Programming Summercamp",
+      "company": {
+        "name": "Codefever",
+        "link": "https://www.codefever.be/nl"
+      },
+      "summary": "Assisting the teacher(s) with helping the kids through the exercises.",
+      "technologies": [
+        "Scratch"
+      ]
+    },
+    {
+      "key": "Skedify",
+      "date": "Feb 2018 - May 2018",
+      "position": "Intern",
+      "company": {
+        "name": "Skedify",
+        "link": "http://www.skedify.me"
+      },
+      "summary": "Caching of the external API's",
+      "technologies": [
+        "Node.js",
+        "Redis",
+        "Jest.js"
+      ]
+    }
+  ],
+  "interests": [
+    {"name": "Badminton"},
+    {"name": "Video Games"},
+    {"name": "Watching TV"}
+  ],
+  "languages": [
+    {
+      "name": "Dutch",
+      "rating": 5
+    },
+    {
+      "name": "English",
+      "rating": 4
+    }
+  ],
+  "personal": {
+    "name": "Lennert Hofman",
+    "info": [
+      {
+        "field": "Address",
+        "value": "Evangeliestraat 87, 9220 Hamme"
+      },
+      {
+        "field": "Phone",
+        "value": "0471/37.93.63"
+      },
+      {
+        "field": "E-mail",
+        "value": "hofmanlennert@gmail.com"
+      },
+      {
+        "field": "Date of Birth",
+        "value": "10 December 1996"
+      }
+    ],
+    "links": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/lennert-hofman-66405667/"
+      },
+      {
+        "name": "Github",
+        "link": "https://github.com/LHofman"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "OOP",
+      "rating": 4,
+      "description": "Java, C#, VB.net"
+    },
+    {
+      "name": "PHP",
+      "rating": 4,
+      "description": "CakePHP, OOP"
+    },
+    {
+      "name": "JavaScript",
+      "rating": 4,
+      "description": "Angular, React, Node"
+    },
+    {
+      "name": "ASP.net",
+      "rating": 3,
+      "description": "MVC, Core"
+    },
+    {
+      "name": "Database",
+      "rating": 3,
+      "description": "MySql, MongoDB"
+    },
+    {
+      "name": "Webdesign",
+      "rating": 3,
+      "description": "HTML, CSS"
+    }
+  ],
+  "others": [
+    {
+      "icon": "drivers license",
+      "text": "Drivers License (Nov 2017)"
+    }
+  ]
+}
